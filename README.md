@@ -5,7 +5,7 @@
 Aquí vivien los ejercicios realizados en la plática/taller _WTF is Git_.
 
 ## Ejercicios:
-- Introducción a los repos [(Linux/Mac)](./blob/master/repo-basics.sh)
+- Introducción a los repos [(Linux/Mac)](./repo-basics.sh)
 - Introducción a los repos (Windows) :construction: **En progreso**
 
 ## Recursos adicionales
