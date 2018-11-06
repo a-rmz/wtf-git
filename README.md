@@ -1,7 +1,5 @@
 # WTF is Git
 
-![Wtf is git!](https://user-images.githubusercontent.com/15201480/48033825-8cabb100-e122-11e8-9779-ad3e0488be04.png)
-
 Aquí vivien los ejercicios realizados en la plática/taller _WTF is Git_.
 
 ## Ejercicios:
