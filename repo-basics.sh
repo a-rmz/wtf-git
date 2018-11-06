@@ -67,6 +67,26 @@ git log
 git log -p
 
 
+# Crear el archivo de gitignore
+#
+#  (puede ser por el metodo que quieran)
+echo "bin/" > .gitignore
+
+# Crear el directorio de bin
+mkdir bin
+
+# Crear dos archivos vacios en la carpeta de bin
+#
+#  (puede ser por el metodo que quieran)
+touch bin/compiled-1 bin/compiled-2
+
+# Revisar de nuevo el estado del repositorio
+git status
+
+# Listar los archivos seguidos por git
+git ls-files
+
+
 # [ OPCIONAL ] Crear un git-hook
 
 # Crear y abrir el archivo del hook de pre-commit
