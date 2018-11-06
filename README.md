@@ -1,6 +1,10 @@
 # WTF is Git
 
-Aquí vivien los ejercicios realizados en la plática/taller _WTF is Git_.
+Aquí viven el artículo y los ejercicios realizados en la plática/taller _WTF is Git_.
+
+## Link al artículo
+
+[ https://github.com/a-rmz/wtf-git/wiki/WTF-is-Git ](https://github.com/a-rmz/wtf-git/wiki/WTF-is-Git)
 
 ## Ejercicios:
 - Introducción a los repos ([Link](./repo-basics.sh))
